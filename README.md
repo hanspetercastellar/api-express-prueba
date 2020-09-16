@@ -12,7 +12,7 @@ npm install
 ```
 
 ```
-npm rundev
+npm run dev
 
 ```
 
